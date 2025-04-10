@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX hle_signups_user_class_uk ON hle_class_signups (user_id, scheduled_class_id);
